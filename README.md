@@ -3,7 +3,7 @@
 ```
 Latihan 1
 ```
-![](screenshot1/soal1.png)
+![](screenshot/soal1.png)
 ## Program
 
 ![](screenshot/person.png)
