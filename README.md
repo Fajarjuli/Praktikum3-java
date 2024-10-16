@@ -3,13 +3,13 @@
 ```
 Latihan 1
 ```
-![](latihan1/soal1.png)
+![](screenshot1/soal1.png)
 ## Program
 
-![](assets/person.png)
+![](screenshot/person.png)
 
-![](assets/infoperson.png)
+![](screenshot/main.png)
 
 ## Output
 
-![](assets/output.png)
+![](screenshot/output.png)
